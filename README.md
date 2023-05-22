@@ -1,5 +1,7 @@
 # TareaPaginaWeb
 
+Ingresa a la vista [aquí](https://ybetancurr1.github.io/TareaPaginaWeb/).
+
 Esta tarea comprende el desarrollo de un portal Web personal utilizando las tecnología html, css, javascript y framework bootstrap.
 
 ## Consideraciones
